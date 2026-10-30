@@ -12,6 +12,8 @@ A machine-learning pipeline that identifies potentially fraudulent credit-card t
 
 </div>
 
+[🎥 **Video Explanation**](https://drive.google.com/drive/folders/1_IAReqS78NAOAbQdO0jGSKjQqHTq030E)
+
 ---
 
 ## 📌 Project Overview
